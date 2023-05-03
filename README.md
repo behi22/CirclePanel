@@ -1,2 +1,2 @@
 # CirclePanel
-CPSC 1181 Lab 5
+CPSC 1181 Lab 6
